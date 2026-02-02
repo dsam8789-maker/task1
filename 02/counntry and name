@@ -1,0 +1,8 @@
+# This program stores personal information and prints it
+name = "dona"
+age = 18
+country = "Sudan"
+
+print("Name:", name)
+print("Age:", age)
+print("Country:", country)
