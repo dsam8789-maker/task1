@@ -1,0 +1,10 @@
+names = ["dona", "dodi", "dandona", "zinab", "zozo"]                     # Ask the user to enter a name to search for
+
+                                
+search = input("Enter name to search: ")
+
+if search in names:                                                        # A list containing several names
+
+    print(search, "found in the list")
+else:
+    print(search, "not found")
