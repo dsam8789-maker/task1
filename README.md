@@ -124,7 +124,8 @@ Optional Requirements:
 2. Implement the search functionality based on user input. 
 Exercise 9: Hello - 10 Marks 
 Fill in the blanks in the code below so that the function hello() prints "Hello" to the 
-console. 
+console.
+
 def hello(): 
 ____  # Fill in this blank to print "Hello" to the console 
 def main(): 
