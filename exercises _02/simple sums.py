@@ -1,4 +1,4 @@
-#exercise 2 
+
 #step 1,2: store the first and second numbers
 num1 = 7
 num2 = 12
