@@ -1,4 +1,4 @@
-#exercise 6
+
 #define the correct password
 correct_password = "12345"
 #define maximum number of attempts
